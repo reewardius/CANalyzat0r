@@ -1,7 +1,7 @@
 # This Dockerfile variant uses a previously cloned CANalyzat0r folder instead
 # of cloning it from GitHub - useful for development purposes.
 
-FROM ubuntu:latest
+FROM ubuntu:20.10
 LABEL maintainer "Philipp Schmied <pschmied@schutzwerk.com>"
 
 
